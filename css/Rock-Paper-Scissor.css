@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(25, 25, 25);
+    color: white;
+    font-family: Arial;
+}
+.title{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.icon{
+    background-color: transparent;
+    height: 140px;
+    width: 140px;
+    cursor: pointer;
+}
+.btn{
+    background-color: transparent;
+    border: 4px solid white;
+    border-radius: 90px;
+    margin: 10px;
+}
+.js-result{
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 225px;
+}
+.js-moves{
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 54px;
+}
+.js-score{
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 112px;
+    padding-top: 30px;
+}
+.reset, .auto-play{
+    border: none;
+    background-color: white;
+    padding: 15px 25px 15px 25px;
+    font-size: larger;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 81px;
+}
